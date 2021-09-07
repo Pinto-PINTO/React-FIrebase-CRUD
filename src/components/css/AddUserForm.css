@@ -1,0 +1,10 @@
+.add_btn {
+  background-color: #070931 !important; /* Green */
+  border: none;
+  color: white !important;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
